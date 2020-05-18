@@ -1,5 +1,4 @@
-"hello world"
+great = "hello world"
 
 hello_world
 
-greating 
